@@ -5,8 +5,8 @@ import axios from "axios";
  
  
  
-export const BASE_URL = 'https://tm-render-7x9s.onrender.com/api/';
-// export const BASE_URL = 'http://localhost:8000/api/';
+// export const BASE_URL = 'https://tm-render-7x9s.onrender.com/api/';
+export const BASE_URL = 'http://localhost:8000/api/';
 
  
 // Base URL and apiClient configuration
